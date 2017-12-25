@@ -1,0 +1,7 @@
+#Mon Dec 18 11:12:53 KST 2017
+base.0=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78d0a87ebab9c57d55fb0b4e8fd65e35b71efb9c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5381aeaf40772aad43584bf720df0831c6495f6a\\classes.dex
+base.1=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5381aeaf40772aad43584bf720df0831c6495f6a
+file.0=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78d0a87ebab9c57d55fb0b4e8fd65e35b71efb9c\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\R912\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\R912\Desktop\SpeechToText (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_5d17ae560c56380d63cf1ea026ab466a8791e52c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\R912\Desktop\SpeechToText (1)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be3444c3f3a9440281871e2fa8b3452ba2a1f3ba">
+        <dex dex="C:\Users\R912\Desktop\SpeechToText (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_78d0a87ebab9c57d55fb0b4e8fd65e35b71efb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\R912\Desktop\SpeechToText (1)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\R912\Desktop\SpeechToText (1)\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5381aeaf40772aad43584bf720df0831c6495f6a\classes.dex" />
+    </item>
+
+</items>

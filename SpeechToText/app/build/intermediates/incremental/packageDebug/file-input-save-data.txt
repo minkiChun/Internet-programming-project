@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Dec 18 11:12:53 KST 2017
+2.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78d0a87ebab9c57d55fb0b4e8fd65e35b71efb9c\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5381aeaf40772aad43584bf720df0831c6495f6a
+7.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\bg_gradient.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ico_mic.png
+5.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_78d0a87ebab9c57d55fb0b4e8fd65e35b71efb9c
+8.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.set=DEX
+6.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\R912\\Desktop\\SpeechToText (1)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5381aeaf40772aad43584bf720df0831c6495f6a\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

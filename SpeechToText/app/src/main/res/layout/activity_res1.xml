@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient">
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="155dp"
+            android:layout_height="130dp"
+            android:src="@mipmap/card1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="9"
+                android:inputType="textPersonName"
+                android:textColor="#FFFFDD"
+                android:text="신한 러브 LOVE" />
+
+            <EditText
+                android:id="@+id/editText3"
+                android:layout_width="234dp"
+                android:layout_height="wrap_content"
+                android:ems="9"
+                android:inputType="textPersonName"
+                android:text="국내 대영 여행사 3-7% 할인" />
+
+            <EditText
+                android:id="@+id/editText4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="9"
+                android:inputType="textPersonName"
+                android:text="해외 항공권 최저가 보상제" />
+        </LinearLayout>
+
+    </TableRow>
+
+    <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="155dp"
+            android:layout_height="130dp"
+            android:src="@mipmap/card2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editText6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="9"
+                android:inputType="textPersonName"
+                android:textColor="#FFFFDD"
+                android:text="우리 위비온카드" />
+
+            <EditText
+                android:id="@+id/editText7"
+                android:layout_width="234dp"
+                android:layout_height="wrap_content"
+                android:ems="9"
+                android:inputType="textPersonName"
+                android:text="해외 이용수수료 0.3% 면제" />
+
+            <EditText
+                android:id="@+id/editText8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="9"
+                android:inputType="textPersonName"
+                android:text="동방항공 라운지 무료" />
+        </LinearLayout>
+
+    </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="155dp"
+                android:layout_height="130dp"
+                android:src="@mipmap/card3" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/editText10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="9"
+                    android:inputType="textPersonName"
+                    android:textColor="#FFFFDD"
+                    android:text="롯데 PENTA 카드" />
+
+                <EditText
+                    android:id="@+id/editText11"
+                    android:layout_width="234dp"
+                    android:layout_height="wrap_content"
+                    android:ems="9"
+                    android:inputType="textPersonName"
+                    android:text="해외항공권 1-7% 할인" />
+
+                <EditText
+                    android:id="@+id/editText12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="9"
+                    android:inputType="textPersonName"
+                    android:text="해외호텔 5-7% 할인" />
+            </LinearLayout>
+        </TableRow>
+
+        <TableRow
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="155dp"
+                android:layout_height="130dp"
+                android:src="@mipmap/card4" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <EditText
+                    android:id="@+id/editText14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="9"
+                    android:inputType="textPersonName"
+                    android:textColor="#FFFFDD"
+                    android:text="삼성 스카이패스" />
+
+                <EditText
+                    android:id="@+id/editText15"
+                    android:layout_width="234dp"
+                    android:layout_height="wrap_content"
+                    android:ems="9"
+                    android:inputType="textPersonName"
+                    android:text="인천공항 라운지 할인" />
+
+                <EditText
+                    android:id="@+id/editText16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:ems="9"
+                    android:inputType="textPersonName"
+                    android:text="인천공항 발렛파킹 무료" />
+            </LinearLayout>
+</TableRow>
+</TableLayout>

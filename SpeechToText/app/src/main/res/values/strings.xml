@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">로티플 카드 추천</string>
+    <string name="action_settings">옵션</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">찾으시는 카드를 말하세요&#8230;</string>
+    <string name="speech_not_supported">기기가 음성을 지원하지 않습니다!</string>
+    <string name="tap_on_mic">tap to speak</string>
+
+</resources>
